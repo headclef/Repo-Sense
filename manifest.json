@@ -1,0 +1,9 @@
+{
+    "name": "Sense",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/headclef/Repo-Sense",
+    "description": "Passively marks every enemy within 30m around you on the map in red, with no key press, so you always know what is lurking nearby, in R.E.P.O.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
