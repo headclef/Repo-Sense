@@ -10,7 +10,7 @@ public class Sense : BaseUnityPlugin
 {
     private const string PluginGuid = "headclef.Sense";
     private const string PluginName = "Sense";
-    private const string PluginVersion = "1.0.2";
+    private const string PluginVersion = "1.0.3";
 
     internal static Sense Instance { get; private set; } = null!;
     internal new static ManualLogSource Logger => Instance._logger;
